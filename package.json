@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@meteora-ag/dlmm": "^1.9.14"
+  }
+}
