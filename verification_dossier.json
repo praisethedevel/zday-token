@@ -1,0 +1,14 @@
+{
+  "tokenName": "Zero-Day Syndicate",
+  "tokenSymbol": "ZDAY",
+  "decimals": 6,
+  "mintAddress": "BhfR1iTzMQch2FSF23DCyzHGp52kQXtPGkxURb5HisD",
+  "updateAuthority": "DeoN4qmakKDMfGHJ54FzQ4AGBXmNcfZRyuA5uvemsKWP",
+  "repository": "https://github.com/praisethedevel/zday-token",
+  "metadataUri": "https://raw.githubusercontent.com/praisethedevel/zday-token/main/token.json",
+  "logoUri": "https://raw.githubusercontent.com/praisethedevel/zday-token/main/zday.png",
+  "timestamp": "2026-10-13T22:53:44.216Z",
+  "messageText": "Zero-Day Syndicate ($ZDAY) Official Verification\nMint: BhfR1iTzMQch2FSF23DCyzHGp52kQXtPGkxURb5HisD\nAuthority: DeoN4qmakKDMfGHJ54FzQ4AGBXmNcfZRyuA5uvemsKWP\nRepository: https://github.com/praisethedevel/zday-token\nTimestamp: 2026-10-13T22:53:44.216Z",
+  "signatureBase58": "tryc18wBeBeGbgCzD7p87K8RWyqrTPnYhSkutM4CBr6Z5ESHYg1ahCjQzhbsDqAsaduVpndurY1usWxeSVG5Tj5",
+  "solscanSubmissionUrl": "https://solscan.io/token/BhfR1iTzMQch2FSF23DCyzHGp52kQXtPGkxURb5HisD"
+}
