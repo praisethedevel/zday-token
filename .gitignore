@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+*.keypair
+id.json
+*-keypair.json
+new_b58.txt
